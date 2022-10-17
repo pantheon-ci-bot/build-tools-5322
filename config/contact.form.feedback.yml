@@ -1,0 +1,14 @@
+uuid: 1c72866c-7f5e-4167-8c24-acb0e5db1bb1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - greg+ci-terminus-build-tools@pantheon.io
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
